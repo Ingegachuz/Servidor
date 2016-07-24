@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="nombre">Chiquito</string>
+    <string name="pnombre">nombre</string>
+    <string name="cantidad">0</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acercade">Acerca De</string>
+    <string name="menu_configurarcuenta">Configurar Cuenta</string>
+    <string name="boton_accion">Boton Accion</string>
+    <string name="nombre_contacto">Nombre Completo</string>
+    <string name="email">Email</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="siguiente">Enviar Comentario</string>
+    <string name="acerca">Acerca de ...</string>
+    <string name="titulo">Proyecto realizado por:</string>
+    <string name="nombre_titulo">Ing Carlos Gachuz</string>
+    <string name="nombre_mascota">Orejas</string>
+    <string name="nombre_usuario">Escribe tu usuario</string>
+    <string name="guardar_cuenta">Guardar Cuenta</string>
+    <string name="Lanzar_notificacion">Lanzar Notificacion</string>
+    <string name="menu_RecibirNotificaciones">Recibir Notificaciones</string>
+</resources>
